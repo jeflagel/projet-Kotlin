@@ -1,0 +1,1 @@
+rootProject.name = "cours-jee-6-devops"
